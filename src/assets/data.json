@@ -1,0 +1,19 @@
+{
+  "landing": [
+    {
+      "name": "Robert Fox",
+      "images": "https://res.cloudinary.com/demmasgzp/image/upload/v1716481704/Frame_127_xxzc0t.png",
+      "wordings": "RAFT has transformed my approach to finance. Their smart investing options have helped me grow my wealth, and their user-friendly platform makes managing my money a breeze. I've never felt more confident about my financial future."
+    },
+    {
+      "name": "Cameron Williamson",
+      "images": "https://res.cloudinary.com/demmasgzp/image/upload/v1716560672/Frame_130_icyvte.png",
+      "wordings": "I can't express how grateful I am to RAFT. Their wealth management services have been a game-changer for my family's financial security. The expert guidance and personalized strategies have given us peace of mind, knowing that our future is in capable hands."
+    },
+    {
+      "name": "Esther Howard",
+      "images": "https://res.cloudinary.com/demmasgzp/image/upload/v1716560771/Frame_136_hyfyzf.png",
+      "wordings": "RAFT's financial planning services have been a lifeline for me. I always struggled with managing my money, but their team crafted a tailored plan that addressed my goals and concerns. It's been a game-changer in achieving my financial dreams"
+    }
+  ]
+}
